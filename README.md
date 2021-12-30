@@ -13,12 +13,21 @@ This project was a processing of the data received from the Colorado Board of El
 -Data Source: election_results.csv
 -Software: Python, Visual Studio Code
 
-## Summary
+## Election-Audit Results
 The audit revealed the following data:
 -There were 369,711 total votes cast.
--The candidates were: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
+-The counties involved in the election were: Jefferson, Denver, Arapahoe
+-The county results were:
+  -Jefferson County had 38,855 votes (10.5%)
+  -Denver County had 306,055 votes (82.8%)
+  -Arapahoe County had 24,801 votes (6.7%)
+-As evidenced above, Denver County had the largest number of votes
+-The candidates involved in the election were: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
 -The candidate results were: 
   -Charles Casper Stockham: 23.0% (85,213 total votes)
   -Diana DeGette: 73.8% (272,892 total votes)
   -Raymon Anthony Doane: 3.1% (11, 606 total votes)
-The election winner was Diane DeGette
+The election winner was Diane DeGette with 73.8% of the votes (272,892 total votes)
+
+## Election-Audit Summary
+This script can easily be used in future election audits by the Colorado Board of Elections or any other board of elections, congressional or otherwise. In order to use this script, the Board of Elections needs only to produce the raw results of the election outcomes in the same format where the county information is listed in the second column of the CSV file (row[1]) and the candidate name is listed in the third column of the CSV file (row[2]) as seen below. 
