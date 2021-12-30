@@ -40,3 +40,4 @@ The audit revealed the following data:
 This script can easily be used in future election audits by the Colorado Board of Elections or any other board of elections, congressional or otherwise. In order to use this script, the Board of Elections needs only to produce the raw results of the election outcomes in the same format as the CSV file for this election, wherein the county information is listed in the second column of the CSV file (row[1]) and the candidate name is listed in the third column of the CSV file (row[2]) as seen below. 
 
 ![](Election_CSV.png)
+![](Candidate_And_County.png)
