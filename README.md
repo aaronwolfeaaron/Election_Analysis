@@ -22,17 +22,17 @@ The purpose of this project was to process the data received from the Colorado B
 The audit revealed the following data:
 
 There were 369,711 total votes cast.
-The counties involved in the election were: Jefferson, Denver, Arapahoe
-The county results were:
-  Jefferson County had 38,855 votes (10.5%)
-  Denver County had 306,055 votes (82.8%)
-  Arapahoe County had 24,801 votes (6.7%)
-As evidenced above, Denver County had the largest number of votes
-The candidates involved in the election were: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane-The candidate results were: 
-  Charles Casper Stockham: 23.0% (85,213 total votes)
-  Diana DeGette: 73.8% (272,892 total votes)
-  Raymon Anthony Doane: 3.1% (11, 606 total votes)
-The election winner was Diane DeGette with 73.8% of the votes (272,892 total votes)
+  - The counties involved in the election were: Jefferson, Denver, Arapahoe
+  - The county results were:
+    - Jefferson County had 38,855 votes (10.5%)
+    - Denver County had 306,055 votes (82.8%)
+    - Arapahoe County had 24,801 votes (6.7%)
+  - As evidenced above, Denver County had the largest number of votes
+  - The candidates involved in the election were: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane-The candidate results were: 
+    - Charles Casper Stockham: 23.0% (85,213 total votes)
+    - Diana DeGette: 73.8% (272,892 total votes)
+    - Raymon Anthony Doane: 3.1% (11, 606 total votes)
+  - The election winner was Diane DeGette with 73.8% of the votes (272,892 total votes)
 
 ![](Election_Results.png)
 
