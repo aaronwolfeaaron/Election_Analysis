@@ -11,6 +11,7 @@ This project was a processing of the data received from the Colorado Board of El
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python, Visual Studio Code
 
 ## Election-Audit Results
