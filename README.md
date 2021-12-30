@@ -9,7 +9,7 @@ This project was a processing of the data received from the Colorado Board of El
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-##Resources
+## Resources
 -Data Source: election_results.csv
 -Software: Python, Visual Studio Code
 
