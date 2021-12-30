@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-The purporse of this project was to process the data received from the Colorado Board of Elections from a congressional election. I was tasked with auditing the results to verify the election outcome and county turnout by performing the following tasks:
+The purpose of this project was to process the data received from the Colorado Board of Elections from a congressional election. I was tasked with auditing the results to verify the election outcome and county turnout by performing the following tasks:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes. 
