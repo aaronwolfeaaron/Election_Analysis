@@ -20,8 +20,7 @@ The purpose of this project was to process the data received from the Colorado B
 
 ## Election-Audit Results
 The audit revealed the following data:
-
-There were 369,711 total votes cast.
+  - There were 369,711 total votes cast.
   - The counties involved in the election were: Jefferson, Denver, Arapahoe
   - The county results were:
     - Jefferson County had 38,855 votes (10.5%)
