@@ -15,6 +15,7 @@ The purpose of this project was to process the data received from the Colorado B
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python, Visual Studio Code
 
 ## Election-Audit Results
